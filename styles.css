@@ -11,7 +11,8 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 1000px;
+    max-height: 1500px;
     margin: 30px auto;
     background-color: white;
     padding: 20px;
@@ -36,30 +37,4 @@ header p {
 
 .image-section {
     margin-bottom: 30px;
-}
-
-.curriculum-image {
-    width: 80%;
-    max-width: 600px;
-    height: auto;
-    border-radius: 8px;
-    border: 2px solid #ddd;
-}
-
-.download {
-    margin-top: 20px;
-}
-
-.download-button {
-    padding: 10px 20px;
-    background-color: #4CAF50;
-    color: white;
-    text-decoration: none;
-    font-size: 1.2em;
-    border-radius: 5px;
-    transition: background-color 0.3s;
-}
-
-.download-button:hover {
-    background-color: #45a049;
 }
